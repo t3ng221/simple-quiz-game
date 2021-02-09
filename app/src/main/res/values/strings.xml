@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radio Button</string>
+    <string name="front">Name of the capital city of Bangladesh</string>
+    <string name="option1Text">Dhaka</string>
+    <string name="option2Text">Rajshahi</string>
+    <string name="option3Text">khulna</string>
+    <string name="option4Text">Sylhet</string>
+    <string name="submitText">SUBMIT</string>
+    <string name="TryagainButtonText">Try Again</string>
+</resources>
